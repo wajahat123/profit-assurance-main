@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wajahat123/profit-assurance-main/static/css/main.2d8f263a.css",
+    "main.js": "/wajahat123/profit-assurance-main/static/js/main.4b1a82fe.js",
+    "static/js/453.e98f67e2.chunk.js": "/wajahat123/profit-assurance-main/static/js/453.e98f67e2.chunk.js",
+    "index.html": "/wajahat123/profit-assurance-main/index.html",
+    "main.2d8f263a.css.map": "/wajahat123/profit-assurance-main/static/css/main.2d8f263a.css.map",
+    "main.4b1a82fe.js.map": "/wajahat123/profit-assurance-main/static/js/main.4b1a82fe.js.map",
+    "453.e98f67e2.chunk.js.map": "/wajahat123/profit-assurance-main/static/js/453.e98f67e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8f263a.css",
+    "static/js/main.4b1a82fe.js"
+  ]
+}
